@@ -1,0 +1,12 @@
+This helps to predict their admissions in colleges. Administrator can add the college details and the batch details.
+University and college admission is a complex decision process that goes beyond simply matching test scores and admission requirements.
+Universities have their admission requirements for this purpose which are prediction system for predicting university admission.
+Our application addresses this issue of the student admission community. The application uses data mining and data analysis techniques.
+
+Every year thousands of college graduates apply for the master and PhD programs in US universities from all around the world.  
+Applying to US universities is not an easy task, it involves many steps and procedures to follow.  
+Choosing the right universities or colleges is definitely an another hurdle students have to face. 
+Many students apply for the universities in which they have little chance of acceptance.
+ 
+This leads students of poor economic backgrounds to frustration and anxiety as they only lose surplus amount of money just for applying to those universities. 
+This is because overall university application cost is not affordable for students with low economic backgrounds. 
