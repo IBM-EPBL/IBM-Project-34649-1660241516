@@ -41,6 +41,7 @@
 <ul> <i>
 <h4> <img src="https://cdn.xxl.thumbs.canstockphoto.com/accept-green-icon-check-sign-stock-illustrations_csp27957677.jpg" width="20px"> Ideation Phase </h4> 
 <h4> <img src="https://cdn.xxl.thumbs.canstockphoto.com/accept-green-icon-check-sign-stock-illustrations_csp27957677.jpg" width="20px"> Project Design Phase-1 </h4>
+<h4> <img src="https://cdn.xxl.thumbs.canstockphoto.com/accept-green-icon-check-sign-stock-illustrations_csp27957677.jpg" width="20px"> Project Design Phase-2 </h4>
 <h4> <img src="https://cdn.xxl.thumbs.canstockphoto.com/accept-green-icon-check-sign-stock-illustrations_csp27957677.jpg" width="20px"> Assignment 1 </h4>
 <h4> <img src="https://cdn.xxl.thumbs.canstockphoto.com/accept-green-icon-check-sign-stock-illustrations_csp27957677.jpg" width="20px"> Assignment 2 </h4>
 <h4> <img src="https://cdn.xxl.thumbs.canstockphoto.com/accept-green-icon-check-sign-stock-illustrations_csp27957677.jpg" width="20px"> Assignment 3 </h4>
