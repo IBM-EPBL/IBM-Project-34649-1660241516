@@ -14,7 +14,7 @@ def index():
             arr.append(float(val))
 
         # deepcode ignore HardcodedNonCryptoSecret: <please specify a reason of ignoring this>
-        API_KEY = "wf8mge_OQdwVO8ao2kmWCtfxOfLWl8442SH44V85v2Ls"
+        API_KEY = "LCI3WnVbNVVVk0zSyCGIBhWp0voyjeb5VzA1GuzPSEyl"
         token_response = requests.post('https://iam.cloud.ibm.com/identity/token', data={
             "apikey": API_KEY, 
             "grant_type": 'urn:ibm:params:oauth:grant-type:apikey'
