@@ -34,7 +34,7 @@ def index():
                         }
 
         response_scoring = requests.post(
-            'https://us-south.ml.cloud.ibm.com/ml/v4/deployments/8308fd4c-24a5-46ab-96fa-263657ae4ad0/predictions?version=2022-10-18', 
+            'https://us-south.ml.cloud.ibm.com/ml/v4/deployments/fd146f26-1deb-49a9-a688-731daa863097/predictions?version=2022-11-16', 
             json=payload_scoring,
             headers=header
         ).json()
