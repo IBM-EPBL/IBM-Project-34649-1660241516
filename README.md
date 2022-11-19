@@ -39,12 +39,8 @@
     
   <h1> <img src="https://media0.giphy.com/media/kLOkqcrdC5mrCE7k7G/200w.webp?cid=ecf05e47xelxkirltcp07bzh5uxvi15yyewjzlzsngzwl5wm&rid=200w.webp&ct=g" width="70px"> Tasks: </h1>
 <ul> <i>
-<h4> <img src="https://cdn.xxl.thumbs.canstockphoto.com/accept-green-icon-check-sign-stock-illustrations_csp27957677.jpg" width="20px"> Ideation Phase </h4> 
+<h4> <img src="https://cdn.xxl.thumbs.canstockphoto.com/accept-green-icon-check-sign-stock-illustrations_csp27957677.jpg" width="20px"> Assignments </h4>
+</i>
 <h4> <img src="https://cdn.xxl.thumbs.canstockphoto.com/accept-green-icon-check-sign-stock-illustrations_csp27957677.jpg" width="20px"> Project Design & Planning</h4>
 <h4> <img src="https://cdn.xxl.thumbs.canstockphoto.com/accept-green-icon-check-sign-stock-illustrations_csp27957677.jpg" width="20px"> Project Development Phase </h4>
-<h4> <img src="https://cdn.xxl.thumbs.canstockphoto.com/accept-green-icon-check-sign-stock-illustrations_csp27957677.jpg" width="20px"> Final Deliverables </h4>
-<h4> <img src="https://cdn.xxl.thumbs.canstockphoto.com/accept-green-icon-check-sign-stock-illustrations_csp27957677.jpg" width="20px"> Assignment 1 </h4>
-<h4> <img src="https://cdn.xxl.thumbs.canstockphoto.com/accept-green-icon-check-sign-stock-illustrations_csp27957677.jpg" width="20px"> Assignment 2 </h4>
-<h4> <img src="https://cdn.xxl.thumbs.canstockphoto.com/accept-green-icon-check-sign-stock-illustrations_csp27957677.jpg" width="20px"> Assignment 3 </h4>
-<h4> <img src="https://cdn.xxl.thumbs.canstockphoto.com/accept-green-icon-check-sign-stock-illustrations_csp27957677.jpg" width="20px"> Assignment 4 </h4>
-</i> </ul>
+<h4> <img src="https://cdn.xxl.thumbs.canstockphoto.com/accept-green-icon-check-sign-stock-illustrations_csp27957677.jpg" width="20px"> Final Deliverables </h4> </ul>
